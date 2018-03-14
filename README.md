@@ -1,2 +1,5 @@
+
 # google-homepage
-http://www.theodinproject.com/web-development-101/html-css
+Created a basic google homepage. To view it visit the following url:
+
+https://rawgit.com/rohitsuv/google-homepage/master/index.html
